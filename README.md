@@ -4,6 +4,6 @@
 
 ```python
 def mol_to_med():
-    return "Pharmaceutical physician on a mission to heal with code."
+    return "Leading trials that take molecules from bench to bedside – with some snippets of code."
 
 mol_to_med()
